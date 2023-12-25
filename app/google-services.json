@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "350506566951",
+    "firebase_url": "https://apparmijos-default-rtdb.firebaseio.com",
+    "project_id": "apparmijos",
+    "storage_bucket": "apparmijos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350506566951:android:234013d227766b8ce39502",
+        "android_client_info": {
+          "package_name": "com.example.apparmijos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350506566951-nqr6503g3c0e1pmbel85q26gfb6emo44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ViPVXrUAXB_e4qhXyzOVJJmwCLr0QSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350506566951-nqr6503g3c0e1pmbel85q26gfb6emo44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350506566951:android:f70e3ee783a49350e39502",
+        "android_client_info": {
+          "package_name": "com.example.apparmijost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350506566951-nqr6503g3c0e1pmbel85q26gfb6emo44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ViPVXrUAXB_e4qhXyzOVJJmwCLr0QSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350506566951-nqr6503g3c0e1pmbel85q26gfb6emo44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
